@@ -1,6 +1,6 @@
 FROM node:14-alpine
 
-ARG BASE_DIR=backend1
+ARG BASE_DIR
 
 WORKDIR /application
 
